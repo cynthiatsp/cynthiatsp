@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cynthiatsp
 - 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning Data Wrangling 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m preferably looking to collaborate on projects related to environment 
 - 📫 How to reach me: send an e-mail to cynthia_tsp@hotmail.com
 
